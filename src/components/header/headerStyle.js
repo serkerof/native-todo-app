@@ -22,10 +22,11 @@ export default StyleSheet.create({
   },
   dateYear: {
     color: 'white',
+    fontSize: 16,
   },
   dateMonth: {
     color: 'white',
-    fontSize: 18,
+    fontSize: 20,
   },
   dayStreakContainer: {
     flexDirection: 'row',
@@ -48,7 +49,7 @@ export default StyleSheet.create({
     backgroundColor: '#585DFF',
     alignItems: 'center',
     borderRadius: 20,
-    marginRight: 5
+    marginRight: 5,
   },
   weekDay: {
     color: 'white',
